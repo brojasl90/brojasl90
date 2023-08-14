@@ -1,16 +1,14 @@
-### Hi there 👋
-
 ![Header](./img/programming-header.jpg)
 
-<h1 align="center">Hi 👋, I'm Bryan Rojas</h1>
-<h3 align="center">A passionate pentester and software developer</h3>
+<h1 align="center">Hi there👋, I'm Bryan Rojas</h1>
+<h3 align="center">A passionate pentester and software developer from Costa Rica :costa_rica: </h3>
 <img align="right" alt="Coding" width="400" src="./img/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brojasl90&label=Profile%20views&color=0e75b6&style=flat" alt="brojasl90" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bryanrl11" target="blank"><img src="https://img.shields.io/twitter/follow/bryanrl11?logo=twitter&style=for-the-badge" alt="bryanrl11" /></a> </p>
 
-- 🌱 I’m currently learning **OSCP Cert**
+- 🌱 I’m currently learning **the OSCP Certification path**
 
 - 📝 I regularly write articles on [Hack the box machines and cybersecurity](Hack the box machines and cybersecurity)
 
