@@ -1,5 +1,6 @@
 ### Hi there 👋
-\LRCornerWallPaper{0.99}./img/programming-header.jpg}
+
+![Header](./img/programming-header.jpg)
 
 <h1 align="center">Hi 👋, I'm Bryan Rojas</h1>
 <h3 align="center">A passionate pentester and software developer</h3>
