@@ -1,5 +1,4 @@
 ![Header](./img/programming-header.jpg)
-:costa_rica:
 
 <h1 align="center">Hi there👋, I'm Bryan Rojas</h1>
 <h3 align="center">A passionate pentester and software developer from Costa Rica :costa_rica:</h3>
