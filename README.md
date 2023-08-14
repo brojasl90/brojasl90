@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **the OSCP Certification path**
 
-- 📝 I regularly write articles on [Hack the box machines and cybersecurity](Hack the box machines and cybersecurity)
+- 📝 I regularly write articles on **Hack the box machines and cybersecurity**
 
 - 📫 How to reach me **brojasl18@gmail.com**
 
