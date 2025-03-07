@@ -32,7 +32,7 @@
 
 <p align="left"> <a href="https://twitter.com/bryanrl11" target="blank"><img src="https://img.shields.io/twitter/follow/bryanrl11?logo=twitter&style=for-the-badge" alt="bryanrl11" /></a> </p>
 
-- <a href="https://credentials.offsec.com/2f9851a8-ebfb-47cc-8aa2-b3e46827ed3c#acc.WFPknuBN" target="blank"><img align="center" src="./img/PEN-200-color-outline.svg" alt="OSCP+" height="30" width="40" /></a> I earned **the OSCP+ Certification** in Nov 2024
+- <a href="https://credentials.offsec.com/2f9851a8-ebfb-47cc-8aa2-b3e46827ed3c#acc.WFPknuBN" target="blank"><img align="center" src="./img/PEN-200-color-outline.svg" alt="OSCP+" height="30" width="40" /></a> Obtuve la **Certificación OSCP+** en Noviembre de 2024.
 
 - 📝 Escribo artículos regularmente sobre **máquinas de Hack the Box y ciberseguridad** @ **https://hydd3nit.gitbook.io/brojasl18** Español @ **https://hydd3nit.gitbook.io/mibrojasl18/**
 
